@@ -39,5 +39,4 @@ function getNthWeekdayOfMonth(occurance, dayOfWeek, month, year){
         return futureDate;
     }
     console.log(futureDate);
-    
 }
